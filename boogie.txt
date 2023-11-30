@@ -1,0 +1,9 @@
+Boogie program verifier version 2.4.1.10503, Copyright (c) 2003-2014, Microsoft.
+Prover error: Prover died
+__SolToBoogieTest_out.bpl(401,16): Verification inconclusive (BoogieEntry_IERC20)
+Prover error: Prover died
+__SolToBoogieTest_out.bpl(430,16): Verification inconclusive (BoogieEntry_SafeMath)
+Prover error: Prover died
+__SolToBoogieTest_out.bpl(459,16): Verification inconclusive (BoogieEntry_visor2)
+
+Boogie program verifier finished with 0 verified, 0 errors, 3 inconclusives
